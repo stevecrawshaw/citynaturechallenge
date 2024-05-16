@@ -48,3 +48,4 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 data/
+data/CNC 2018.csv data/CNC 2019.csv data/CNC 2020.csv data/CNC 2021.csv data/CNC 2022.csv data/CNC 2023.csv data/CNC 2024.csv data/cnc_2018-2024.csv data/loz_meta.txt data/summary_participants_all_.csv data/summary_participants_not_casual_.csv data/summary_records_all_.csv data/summary_records_not_casual_.csv
